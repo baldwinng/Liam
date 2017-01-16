@@ -1,0 +1,15 @@
+{
+  "name": "Liam",
+  "version": "0.0.0",
+  "description": "Liam is a bot that will help me greet and guide my website visitors to every information available on my blog",
+  "main": "behavior/scripts/index.js",
+  "scripts": {
+    "start": "initai-dev-server"
+  },
+  "author": "<my-name> <<my-email-address>>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "initai-dev-server": "^0.4.8",
+    "initai-node": "~0.0.7"
+  }
+}
